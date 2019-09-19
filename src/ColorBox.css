@@ -5,6 +5,7 @@
   display: inline-block;
   position: relative;
   cursor: pointer;
+  margin-bottom: -3.5px;
 }
 
 .copy-button {
@@ -45,8 +46,8 @@
   background: rgba(255, 255, 255, 0.3);
   position: absolute;
   border: none;
-  right: 0px;
-  bottom: 0px;
+  right: 0;
+  bottom: 0;
   color: white;
   width: 60px;
   height: 30px;
